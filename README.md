@@ -96,7 +96,7 @@ plt.show()
 
 ### Input image and grayscale image
 <br>
-![1]()
+![1](https://github.com/saieswar1607/Edge-Linking-using-Hough-Transform/blob/main/output1.jpeg)
 <br>
 ![2]()
 <br>
