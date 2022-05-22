@@ -50,7 +50,8 @@ End the program.
 
 ## Program:
 ```Python
-
+# Devleoped by:- Sai Eswar Kandukuri
+# Registration number:- 212221240020
 # Read image and convert it to grayscale image
 
 import cv2
